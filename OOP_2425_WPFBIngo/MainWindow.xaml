@@ -1,0 +1,45 @@
+﻿<Window x:Class="OOP_2425_WPFBIngo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_2425_WPFBIngo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="553" Width="371">
+    <Grid>
+        <Button x:Name="btnB1" Content="00" HorizontalAlignment="Left" Margin="14,68,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnB1_Click"/>
+        <Button x:Name="btnB2" Content="00" HorizontalAlignment="Left" Margin="14,133,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnB2_Click"/>
+        <Button x:Name="btnB3" Content="00" HorizontalAlignment="Left" Margin="14,198,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnB3_Click"/>
+        <Button x:Name="btnB4" Content="00" HorizontalAlignment="Left" Margin="14,263,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnB4_Click"/>
+        <Button x:Name="btnB5" Content="00" HorizontalAlignment="Left" Margin="14,328,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnB5_Click"/>
+        <Button x:Name="btnI1" Content="00" HorizontalAlignment="Left" Margin="79,68,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnI1_Click"/>
+        <Button x:Name="btnI2" Content="00" HorizontalAlignment="Left" Margin="79,133,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnI2_Click"/>
+        <Button x:Name="btnI3" Content="00" HorizontalAlignment="Left" Margin="79,198,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnI3_Click"/>
+        <Button x:Name="btnI4" Content="00" HorizontalAlignment="Left" Margin="79,263,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnI4_Click"/>
+        <Button x:Name="btnI5" Content="00" HorizontalAlignment="Left" Margin="79,328,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnI5_Click"/>
+        <Button x:Name="btnN1" Content="00" HorizontalAlignment="Left" Margin="144,68,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnN1_Click"/>
+        <Button x:Name="btnN2" Content="00" HorizontalAlignment="Left" Margin="144,133,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnN2_Click"/>
+        <Button x:Name="btnN3" Content="00" HorizontalAlignment="Left" Margin="144,198,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnN3_Click"/>
+        <Button x:Name="btnN4" Content="00" HorizontalAlignment="Left" Margin="144,263,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnN4_Click"/>
+        <Button x:Name="btnN5" Content="00" HorizontalAlignment="Left" Margin="144,328,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnN5_Click"/>
+        <Button x:Name="btnG1" Content="00" HorizontalAlignment="Left" Margin="209,68,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnG1_Click"/>
+        <Button x:Name="btnG2" Content="00" HorizontalAlignment="Left" Margin="209,133,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnG2_Click"/>
+        <Button x:Name="btnG3" Content="00" HorizontalAlignment="Left" Margin="209,198,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnG3_Click"/>
+        <Button x:Name="btnG4" Content="00" HorizontalAlignment="Left" Margin="209,263,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnG4_Click"/>
+        <Button x:Name="btnG5" Content="00" HorizontalAlignment="Left" Margin="209,328,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnG5_Click"/>
+        <Button x:Name="btnO1" Content="00" HorizontalAlignment="Left" Margin="274,68,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnO1_Click"/>
+        <Button x:Name="btnO2" Content="00" HorizontalAlignment="Left" Margin="274,133,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnO2_Click"/>
+        <Button x:Name="btnO3" Content="00" HorizontalAlignment="Left" Margin="274,198,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnO3_Click"/>
+        <Button x:Name="btnO4" Content="00" HorizontalAlignment="Left" Margin="274,263,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnO4_Click"/>
+        <Button x:Name="btnO5" Content="00" HorizontalAlignment="Left" Margin="274,328,0,0" VerticalAlignment="Top" FontSize="32" Width="60" Height="60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="btnO5_Click"/>
+        <Label Content="B" HorizontalAlignment="Left" Margin="29,10,0,0" VerticalAlignment="Top" FontSize="32" FontWeight="Bold"/>
+        <Label Content="I" HorizontalAlignment="Left" Margin="99,10,0,0" VerticalAlignment="Top" FontSize="32" FontWeight="Bold"/>
+        <Label Content="N" HorizontalAlignment="Left" Margin="159,10,0,0" VerticalAlignment="Top" FontSize="32" FontWeight="Bold"/>
+        <Label Content="G" HorizontalAlignment="Left" Margin="224,10,0,0" VerticalAlignment="Top" FontSize="32" FontWeight="Bold"/>
+        <Label Content="O" HorizontalAlignment="Left" Margin="287,10,0,0" VerticalAlignment="Top" FontSize="32" FontWeight="Bold"/>
+        <Button x:Name="btnGenerate" Content="Generate" HorizontalAlignment="Left" Margin="14,404,0,0" VerticalAlignment="Top" FontSize="32" Width="190" Click="btnGenerate_Click"/>
+        <Button x:Name="btnPlay" Content="Play!" HorizontalAlignment="Left" Margin="210,404,0,0" VerticalAlignment="Top" FontSize="32" Width="124" Click="btnPlay_Click"/>
+        <Button x:Name="btnReset" Content="Reset!" HorizontalAlignment="Left" Margin="14,456,0,0" VerticalAlignment="Top" FontSize="32" Width="320" Click="btnReset_Click"/>
+
+    </Grid>
+</Window>
